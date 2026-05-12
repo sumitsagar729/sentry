@@ -1,0 +1,370 @@
+{
+  "37C2F9569E21F34EB78E5ECD57E859DB": [
+    {
+      "domain": "akamai.com",
+      "visitCount": 62,
+      "lastVisited": "2026-04-22T05:13:48.926Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "google.com",
+      "visitCount": 66,
+      "lastVisited": "2026-04-27T16:51:07.168Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "reddit.com",
+      "visitCount": 211,
+      "lastVisited": "2026-04-27T16:36:02.266Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "facebook.com",
+      "visitCount": 97,
+      "lastVisited": "2026-04-27T12:42:33.743Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "theguardian.com",
+      "visitCount": 197,
+      "lastVisited": "2026-04-27T14:02:41.535Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "bestbuy.com",
+      "visitCount": 210,
+      "lastVisited": "2026-04-15T21:31:10.869Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "twitch.tv",
+      "visitCount": 181,
+      "lastVisited": "2026-04-27T13:39:35.384Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "signal.org",
+      "visitCount": 85,
+      "lastVisited": "2026-04-09T14:08:14.860Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "basecamp.com",
+      "visitCount": 131,
+      "lastVisited": "2026-04-23T16:32:17.547Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "asana.com",
+      "visitCount": 88,
+      "lastVisited": "2026-04-27T13:37:14.669Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "canva.com",
+      "visitCount": 170,
+      "lastVisited": "2026-04-27T14:06:32.840Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "trello.com",
+      "visitCount": 45,
+      "lastVisited": "2026-04-24T06:19:11.860Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "upwork.com",
+      "visitCount": 19,
+      "lastVisited": "2026-04-27T16:50:52.612Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "shopify.com",
+      "visitCount": 159,
+      "lastVisited": "2026-04-13T20:30:49.702Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "figma.com",
+      "visitCount": 132,
+      "lastVisited": "2026-04-17T23:15:47.298Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "amazon.com",
+      "visitCount": 192,
+      "lastVisited": "2026-04-16T02:41:24.534Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "stackoverflow.com",
+      "visitCount": 139,
+      "lastVisited": "2026-04-11T23:32:16.359Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "wordpress.com",
+      "visitCount": 90,
+      "lastVisited": "2026-04-27T16:18:57.594Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "ziprecruiter.com",
+      "visitCount": 170,
+      "lastVisited": "2026-04-27T15:29:13.694Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "vercel.com",
+      "visitCount": 211,
+      "lastVisited": "2026-04-27T11:55:28.760Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "wellsfargo.com",
+      "visitCount": 133,
+      "lastVisited": "2026-04-09T19:08:02.229Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "autodesk.com",
+      "visitCount": 177,
+      "lastVisited": "2026-04-27T11:50:20.548Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "craigslist.org",
+      "visitCount": 33,
+      "lastVisited": "2026-04-27T15:35:30.328Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "skype.com",
+      "visitCount": 148,
+      "lastVisited": "2026-04-27T15:57:15.330Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "wix.com",
+      "visitCount": 31,
+      "lastVisited": "2026-04-27T12:13:54.827Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "squarespace.com",
+      "visitCount": 46,
+      "lastVisited": "2026-04-07T17:32:50.635Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "trulia.com",
+      "visitCount": 216,
+      "lastVisited": "2026-04-27T11:32:00.527Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "costco.com",
+      "visitCount": 164,
+      "lastVisited": "2026-04-27T15:27:05.558Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "icloud.com",
+      "visitCount": 61,
+      "lastVisited": "2026-04-27T13:25:13.284Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "binance.com",
+      "visitCount": 47,
+      "lastVisited": "2026-04-27T12:42:34.263Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "youtube.com",
+      "visitCount": 181,
+      "lastVisited": "2026-04-27T15:10:18.536Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "zillow.com",
+      "visitCount": 184,
+      "lastVisited": "2026-04-12T10:54:26.299Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "fake-antivirus.com",
+      "visitCount": 65,
+      "lastVisited": "2026-04-06T22:35:25.455Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "paypal.com",
+      "visitCount": 28,
+      "lastVisited": "2026-04-27T15:59:21.018Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "phishing-bank-login.com",
+      "visitCount": 146,
+      "lastVisited": "2026-04-27T12:56:27.662Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "1password.com",
+      "visitCount": 37,
+      "lastVisited": "2026-04-27T13:49:10.477Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "monday.com",
+      "visitCount": 155,
+      "lastVisited": "2026-04-25T13:17:07.303Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "notion.so",
+      "visitCount": 157,
+      "lastVisited": "2026-04-10T21:53:19.541Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "twitter.com",
+      "visitCount": 122,
+      "lastVisited": "2026-04-27T12:11:01.883Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "bloomberg.com",
+      "visitCount": 196,
+      "lastVisited": "2026-04-01T09:02:00.154Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "grammarly.com",
+      "visitCount": 110,
+      "lastVisited": "2026-04-17T13:05:51.012Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "bankofamerica.com",
+      "visitCount": 108,
+      "lastVisited": "2026-04-18T22:09:45.650Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "bbc.com",
+      "visitCount": 98,
+      "lastVisited": "2026-04-10T05:08:29.463Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "espn.com",
+      "visitCount": 194,
+      "lastVisited": "2026-04-06T22:15:21.208Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "yahoo.com",
+      "visitCount": 16,
+      "lastVisited": "2026-04-22T19:48:49.489Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "malware-download.xyz",
+      "visitCount": 20,
+      "lastVisited": "2026-04-23T20:22:05.235Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "free-crack-software.net",
+      "visitCount": 20,
+      "lastVisited": "2026-04-27T16:13:00.504Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "torrent-illegal.org",
+      "visitCount": 17,
+      "lastVisited": "2026-04-23T10:55:06.109Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "darkweb-market.onion.ws",
+      "visitCount": 41,
+      "lastVisited": "2026-04-23T21:48:31.107Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "ransomware-payload.ru",
+      "visitCount": 14,
+      "lastVisited": "2026-04-27T11:37:10.017Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "credential-stealer.tk",
+      "visitCount": 22,
+      "lastVisited": "2026-04-26T15:50:21.128Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "botnet-c2-server.cn",
+      "visitCount": 28,
+      "lastVisited": "2026-04-27T13:45:09.022Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "crypto-miner-hidden.io",
+      "visitCount": 20,
+      "lastVisited": "2026-04-27T11:54:56.501Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "keylogger-install.net",
+      "visitCount": 23,
+      "lastVisited": "2026-04-27T15:39:07.744Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "spyware-dropper.biz",
+      "visitCount": 15,
+      "lastVisited": "2026-04-24T23:29:51.512Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "adware-bundle.download",
+      "visitCount": 15,
+      "lastVisited": "2026-04-22T03:59:04.174Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "wikipedia",
+      "visitCount": 29,
+      "lastVisited": "2026-04-27T12:14:06.199Z",
+      "isRedFlag": true
+    },
+    {
+      "domain": "supabase.com",
+      "visitCount": 23,
+      "lastVisited": "2026-04-27T15:42:01.769Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "cnn.com",
+      "visitCount": 7,
+      "lastVisited": "2026-04-27T16:44:19.422Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "surfshark.com",
+      "visitCount": 7,
+      "lastVisited": "2026-04-27T16:18:54.987Z",
+      "isRedFlag": false
+    },
+    {
+      "domain": "freelancer.com",
+      "visitCount": 2,
+      "lastVisited": "2026-04-27T17:07:03.883Z",
+      "isRedFlag": false
+    }
+  ]
+}

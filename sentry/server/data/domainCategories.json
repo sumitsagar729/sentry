@@ -1,0 +1,18 @@
+{
+  "Social Media": ["facebook.com", "twitter.com", "instagram.com", "linkedin.com", "tiktok.com", "snapchat.com", "pinterest.com", "reddit.com", "tumblr.com"],
+  "Streaming & Entertainment": ["youtube.com", "netflix.com", "spotify.com", "twitch.tv", "hulu.com", "disneyplus.com", "hbomax.com", "peacocktv.com", "paramountplus.com", "crunchyroll.com", "funimation.com", "soundcloud.com", "pandora.com", "deezer.com", "tidal.com"],
+  "Productivity & Business": ["slack.com", "zoom.us", "teams.microsoft.com", "outlook.com", "office365.com", "sharepoint.com", "onedrive.live.com", "notion.so", "trello.com", "asana.com", "monday.com", "clickup.com", "basecamp.com", "evernote.com", "todoist.com", "jira.atlassian.com", "confluence.atlassian.com", "salesforce.com"],
+  "Cloud & Infrastructure": ["azure.com", "aws.amazon.com", "cloudflare.com", "akamai.com", "fastly.com", "docker.com", "kubernetes.io", "heroku.com", "digitalocean.com", "vultr.com", "linode.com", "cloudfront.net", "firebase.google.com", "supabase.com", "vercel.com", "netlify.com", "render.com", "railway.app"],
+  "Developer Tools": ["github.com", "stackoverflow.com", "npmjs.com", "pypi.org", "bitbucket.org", "gitlab.com", "dev.to", "hackernews.com", "canva.com", "figma.com", "adobe.com", "autodesk.com"],
+  "Search & Reference": ["google.com", "microsoft.com", "apple.com", "wikipedia.org", "medium.com", "quora.com", "grammarly.com"],
+  "News & Media": ["techcrunch.com", "wired.com", "bbc.com", "cnn.com", "nytimes.com", "theguardian.com", "reuters.com", "bloomberg.com", "wsj.com", "espn.com"],
+  "Shopping & E-Commerce": ["amazon.com", "ebay.com", "walmart.com", "target.com", "bestbuy.com", "homedepot.com", "lowes.com", "costco.com", "samsclub.com", "aliexpress.com", "wish.com", "etsy.com", "shopify.com"],
+  "Finance & Banking": ["stripe.com", "paypal.com", "venmo.com", "chase.com", "bankofamerica.com", "wellsfargo.com", "capitalone.com", "fidelity.com", "schwab.com", "etrade.com", "robinhood.com", "coinbase.com", "binance.com", "kraken.com"],
+  "Communication": ["discord.com", "telegram.org", "whatsapp.com", "signal.org", "skype.com", "webex.com", "gotomeeting.com", "protonmail.com", "mailfence.com", "tutanota.com", "icloud.com"],
+  "Travel & Lifestyle": ["tripadvisor.com", "booking.com", "airbnb.com", "expedia.com", "kayak.com", "yelp.com"],
+  "Security & VPN": ["1password.com", "lastpass.com", "bitwarden.com", "nordvpn.com", "expressvpn.com", "surfshark.com", "protonvpn.com"],
+  "Web Hosting & CMS": ["godaddy.com", "namecheap.com", "squarespace.com", "wix.com", "wordpress.com", "blogger.com"],
+  "Jobs & Freelance": ["indeed.com", "glassdoor.com", "monster.com", "ziprecruiter.com", "upwork.com", "fiverr.com", "freelancer.com"],
+  "Real Estate": ["zillow.com", "realtor.com", "trulia.com", "craigslist.org"],
+  "Malicious / Red Flag": ["malware-download.xyz", "phishing-bank-login.com", "free-crack-software.net", "torrent-illegal.org", "darkweb-market.onion.ws", "ransomware-payload.ru", "credential-stealer.tk", "botnet-c2-server.cn", "fake-antivirus.com", "crypto-miner-hidden.io", "keylogger-install.net", "spyware-dropper.biz", "adware-bundle.download", "scam-lottery-winner.com", "fake-tech-support.live", "data-exfiltration.cc", "zero-day-exploit.ws", "trojan-backdoor.ru", "ddos-for-hire.net", "stolen-credentials.shop", "identity-theft-kit.com", "proxy-bypass-unfiltered.org", "illegal-streaming.tv", "pirated-movies-free.com", "gambling-unlicensed.bet", "pharma-spam.pills", "clickjack-redirect.info", "drive-by-download.xyz", "watering-hole-attack.com", "supply-chain-inject.dev"]
+}

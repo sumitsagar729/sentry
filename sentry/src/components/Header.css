@@ -1,0 +1,106 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #031d38;
+  height: 60px;
+  padding: 0 12px;
+  color: var(--text-white);
+  flex-shrink: 0;
+  z-index: 100;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo-icon {
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-text {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.header-dropdown select {
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  padding: 4px 24px 4px 10px;
+  border-radius: 3px;
+  font-size: 12px;
+  cursor: pointer;
+  appearance: auto;
+}
+
+.header-dropdown select option {
+  color: #333;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.header-icon-btn {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 6px 8px;
+  font-size: 15px;
+  opacity: 0.85;
+  display: flex;
+  align-items: center;
+}
+
+.header-icon-btn:hover {
+  opacity: 1;
+}
+
+.notification-btn {
+  position: relative;
+}
+
+.notification-badge {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #4caf50;
+  font-size: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.header-user {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 12px;
+  padding: 0 8px;
+  cursor: pointer;
+}
+
+.user-caret {
+  font-size: 10px;
+}

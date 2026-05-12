@@ -1,0 +1,42 @@
+[
+  {
+    "applicationId": "D2FFFBA2-0A22-49E2-BDCE-94842A8C2F9E",
+    "name": "Google Chrome",
+    "path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "applicationType": 0,
+    "deviceTypeId": 12,
+    "icon": "🌐"
+  },
+  {
+    "applicationId": "257B9404-48B8-4A4C-9F5A-A9C75D26522B",
+    "name": "Mozilla Firefox",
+    "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+    "applicationType": 0,
+    "deviceTypeId": 12,
+    "icon": "🦊"
+  },
+  {
+    "applicationId": "84E737B5-5FD5-47E7-AEB1-E7AFFA2F8315",
+    "name": "Microsoft Edge",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "applicationType": 0,
+    "deviceTypeId": 12,
+    "icon": "🌊"
+  },
+  {
+    "applicationId": "FF111DAC-1EB7-4458-A67C-D227B206AECA",
+    "name": "OpenClaw AI",
+    "path": "C:\\Program Files\\OpenClaw\\openclaw.exe",
+    "applicationType": 0,
+    "deviceTypeId": 12,
+    "icon": "🤖"
+  },
+  {
+    "applicationId": "E32A0183-519E-4E47-B462-5BD4CBF3B222",
+    "name": "ClaudeOps Desktop",
+    "path": "C:\\Program Files\\Anthropic\\ClaudeOps\\claude.exe",
+    "applicationType": 0,
+    "deviceTypeId": 12,
+    "icon": "🧠"
+  }
+]

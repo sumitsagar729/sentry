@@ -1,0 +1,48 @@
+.notification {
+  position: fixed;
+  top: 52px;
+  right: 16px;
+  padding: 12px 20px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  animation: slideIn 0.3s ease;
+  max-width: 400px;
+}
+
+.notification-success {
+  background: #e8f5e9;
+  color: #2e7d32;
+  border-left: 4px solid #2e7d32;
+}
+
+.notification-error {
+  background: #ffebee;
+  color: #c62828;
+  border-left: 4px solid #c62828;
+}
+
+.notification-info {
+  background: #e3f2fd;
+  color: #1565c0;
+  border-left: 4px solid #1565c0;
+}
+
+.notification-warning {
+  background: #fff3e0;
+  color: #e65100;
+  border-left: 4px solid #e65100;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}

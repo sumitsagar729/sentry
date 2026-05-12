@@ -1,0 +1,152 @@
+{
+  "malware-download.xyz": [
+    "Domain is registered with a disposable registrar frequently used for malware distribution",
+    "Multiple antivirus engines have flagged payloads served from this domain",
+    "Domain age is less than 30 days — a common indicator of throwaway malicious infrastructure"
+  ],
+  "phishing-bank-login.com": [
+    "Domain mimics legitimate banking login pages to harvest credentials",
+    "SSL certificate is self-signed and not issued by a trusted Certificate Authority",
+    "Reported in multiple phishing feeds including PhishTank and OpenPhish"
+  ],
+  "free-crack-software.net": [
+    "Distributes pirated software bundled with trojans and keyloggers",
+    "Violates software licensing agreements, exposing the organization to legal liability",
+    "Multiple users who visited this domain later had compromised endpoints"
+  ],
+  "torrent-illegal.org": [
+    "Hosts torrent trackers for copyrighted content — potential DMCA violations",
+    "Ads on this site redirect to exploit kits targeting browser vulnerabilities",
+    "Network traffic to this domain matches known P2P exfiltration patterns"
+  ],
+  "darkweb-market.onion.ws": [
+    "Acts as a clearnet proxy for Tor hidden services associated with illicit marketplaces",
+    "Traffic to this domain may indicate procurement of stolen data or illegal goods",
+    "Flagged by Threat Intelligence providers as a high-risk indicator of compromise"
+  ],
+  "ransomware-payload.ru": [
+    "Serves encrypted ransomware payloads that target Windows enterprise environments",
+    "Command-and-control callbacks detected from endpoints that contacted this domain",
+    "Domain is hosted in a jurisdiction with no takedown cooperation"
+  ],
+  "credential-stealer.tk": [
+    "JavaScript on this site injects fake login forms into legitimate-looking pages",
+    "Harvested credentials are exfiltrated to offshore collection servers",
+    "Registered on a free TLD (.tk) commonly abused for credential phishing"
+  ],
+  "botnet-c2-server.cn": [
+    "Identified as an active Command & Control server for the Mirai botnet variant",
+    "Endpoints connecting to this domain may already be enrolled in a botnet",
+    "DNS resolution patterns match fast-flux techniques used to evade takedowns"
+  ],
+  "fake-antivirus.com": [
+    "Displays fake security warnings to trick users into installing rogue antivirus software",
+    "The installed 'antivirus' is actually spyware that monitors all user activity",
+    "Domain uses aggressive pop-ups that can bypass standard browser protections"
+  ],
+  "crypto-miner-hidden.io": [
+    "Embeds covert cryptocurrency mining scripts (Coinhive-style) in page resources",
+    "Causes excessive CPU usage on endpoints, degrading device performance and battery life",
+    "Mining proceeds fund accounts linked to known cybercrime syndicates"
+  ],
+  "keylogger-install.net": [
+    "Delivers drive-by downloads that install keystroke logging software",
+    "Captured keystrokes are transmitted to external servers every 60 seconds",
+    "Multiple corporate credential leaks have been traced back to this domain"
+  ],
+  "spyware-dropper.biz": [
+    "Serves obfuscated JavaScript that silently installs surveillance software",
+    "Spyware captures screenshots, clipboard data, and microphone audio",
+    "Domain is linked to a known Advanced Persistent Threat (APT) group"
+  ],
+  "adware-bundle.download": [
+    "Downloads include bundled adware that modifies browser settings and injects ads",
+    "Adware components have rootkit capabilities to resist removal",
+    "Redirects search queries through rogue ad networks to generate revenue"
+  ],
+  "scam-lottery-winner.com": [
+    "Social engineering scam that tricks users into providing personal and financial data",
+    "Fake 'lottery winnings' require advance-fee payments to claim non-existent prizes",
+    "Multiple fraud reports filed with FTC and international consumer protection agencies"
+  ],
+  "fake-tech-support.live": [
+    "Displays alarming fake error messages urging users to call a fraudulent support number",
+    "Scam operators request remote access to install backdoors on corporate devices",
+    "Associated phone numbers are flagged across multiple scam reporting databases"
+  ],
+  "data-exfiltration.cc": [
+    "Domain receives encoded data uploads consistent with corporate data exfiltration",
+    "Traffic analysis reveals large outbound data transfers during off-hours",
+    "DNS tunneling patterns detected — data may be exfiltrated via DNS queries"
+  ],
+  "zero-day-exploit.ws": [
+    "Hosts proof-of-concept exploit code for unpatched zero-day vulnerabilities",
+    "Visiting this domain from an unpatched browser risks silent compromise",
+    "Domain is on CISA's Known Exploited Vulnerabilities alert list"
+  ],
+  "trojan-backdoor.ru": [
+    "Distributes Remote Access Trojans (RATs) disguised as legitimate utilities",
+    "Backdoor provides full shell access to the compromised endpoint",
+    "Malware uses encrypted channels to evade network-based detection"
+  ],
+  "ddos-for-hire.net": [
+    "Offers paid DDoS attack services — using this domain may implicate the organization",
+    "Endpoints connecting here could be co-opted as reflectors in amplification attacks",
+    "Law enforcement agencies have active investigations into this service"
+  ],
+  "stolen-credentials.shop": [
+    "Marketplace selling stolen corporate credentials harvested from previous breaches",
+    "Employees visiting this domain may be attempting to verify leaked credentials",
+    "Domain has been cited in breach notification reports across multiple industries"
+  ],
+  "identity-theft-kit.com": [
+    "Sells ready-made identity theft toolkits including phishing templates and fake ID generators",
+    "Visiting this domain from a corporate network creates legal and compliance risk",
+    "Reported to the FBI IC3 and Europol EC3 cybercrime divisions"
+  ],
+  "proxy-bypass-unfiltered.org": [
+    "Provides proxy services specifically designed to circumvent corporate web filtering",
+    "Bypassing security controls violates acceptable use policies and creates blind spots",
+    "Traffic through this proxy is unencrypted, exposing corporate data to interception"
+  ],
+  "illegal-streaming.tv": [
+    "Streams copyrighted content without authorization — legal liability for the organization",
+    "Site is laden with malvertising that redirects to exploit kits",
+    "High bandwidth consumption impacts network performance for business-critical applications"
+  ],
+  "pirated-movies-free.com": [
+    "Distributes pirated content with embedded malware in media files",
+    "Video codec 'update' prompts actually install trojans",
+    "Organization faces DMCA liability if traffic is traced to corporate IP ranges"
+  ],
+  "gambling-unlicensed.bet": [
+    "Unlicensed gambling site operating outside regulatory frameworks",
+    "No data protection guarantees — payment and personal info at risk of theft",
+    "Accessing gambling sites from corporate devices may violate employment policies"
+  ],
+  "pharma-spam.pills": [
+    "Sells unregulated pharmaceuticals without prescription verification",
+    "Products may be counterfeit, contaminated, or mislabeled",
+    "Domain is part of a large-scale spam network pushing malicious email campaigns"
+  ],
+  "clickjack-redirect.info": [
+    "Uses invisible iframe overlays to hijack user clicks for unintended actions",
+    "Clickjacking attacks can authorize payments, change settings, or grant permissions",
+    "Domain rotates infrastructure frequently to evade blocklists"
+  ],
+  "drive-by-download.xyz": [
+    "Exploits browser vulnerabilities to silently install malware without user interaction",
+    "Targets outdated browser plugins (Flash, Java, Silverlight) still present on some endpoints",
+    "Payload analysis shows information-stealing malware with C2 callbacks"
+  ],
+  "watering-hole-attack.com": [
+    "Compromised legitimate-looking site used to target specific industry verticals",
+    "Attack specifically crafted for organizations in the technology and defense sectors",
+    "Visiting this domain from a corporate IP triggers targeted exploit delivery"
+  ],
+  "supply-chain-inject.dev": [
+    "Hosts tampered open-source packages with injected malicious code",
+    "Developers who install packages from this domain risk compromising build pipelines",
+    "Linked to a supply-chain attack campaign targeting CI/CD infrastructure"
+  ]
+}

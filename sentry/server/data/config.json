@@ -1,0 +1,72 @@
+{
+  "graphs": {
+    "deviceCount": {
+      "visible": false,
+      "title": "Device Count by OS Build"
+    },
+    "topDomains": {
+      "visible": true,
+      "title": "Top Visited Domains"
+    },
+    "redFlagDomains": {
+      "visible": true,
+      "title": "Red Flag Domains Detected"
+    },
+    "appRedFlagDomains": {
+      "visible": true,
+      "title": "App-Level Red Flag Domains"
+    },
+    "appDomainPies": {
+      "visible": true,
+      "title": "Top Flagged Domains by App"
+    },
+    "browsingCategories": {
+      "visible": true,
+      "title": "Browsing by Category"
+    },
+    "riskScores": {
+      "visible": true,
+      "title": "Device Risk Scores"
+    },
+    "hourlyTraffic": {
+      "visible": true,
+      "title": "Traffic by Hour (Safe vs Flagged)"
+    },
+    "domainsPerDevice": {
+      "visible": true,
+      "title": "Unique Domains per Device"
+    },
+    "enrollmentTimeline": {
+      "visible": false,
+      "title": "Device Enrollment Timeline"
+    },
+    "managedVsUnmanaged": {
+      "visible": false,
+      "title": "Managed vs Unmanaged Devices"
+    },
+    "complianceStatus": {
+      "visible": false,
+      "title": "Compliance Status Distribution"
+    }
+  },
+  "messages": {
+    "blockConfirm": "Are you sure you want to block this domain? It will be added to the traffic rule set and will no longer be accessible through the tunnel.",
+    "unblockConfirm": "Are you sure you want to unblock this domain? It will be removed from the traffic rule set and regain access through the tunnel.",
+    "blockSuccess": "Domain is now blocked.",
+    "unblockSuccess": "Domain is now unblocked.",
+    "blockError": "Failed to block the domain. Please try again later.",
+    "unblockError": "Failed to unblock the domain. Please try again later.",
+    "redFlagWarning": "This domain has been flagged as potentially dangerous. Exercise caution before unblocking.",
+    "appRedFlagWarning": "These domains are flagged as risky for the specific application. Block at app level to restrict only the offending app.",
+    "appBlockConfirm": "Block this domain only for the selected application? A new app-scoped traffic rule will be created and published.",
+    "appBlockSuccess": "Domain has been blocked for the selected application.",
+    "appBlockError": "Failed to block the domain at application level. Please try again.",
+    "appUnblockConfirm": "Unblock this domain for the selected application? The app-scoped traffic rule will be removed and republished.",
+    "appUnblockSuccess": "Domain has been unblocked for the selected application.",
+    "appUnblockError": "Failed to unblock the domain at application level. Please try again.",
+    "noDataAvailable": "No data available for the selected criteria.",
+    "loadingData": "Loading analytics data, please wait...",
+    "deviceClickInfo": "Click on a bar to view detailed domain activity for the device.",
+    "domainClickInfo": "Click on a domain bar to see which devices visited it and take action."
+  }
+}

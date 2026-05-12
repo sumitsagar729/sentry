@@ -1,0 +1,135 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  animation: fadeIn 0.2s ease;
+}
+
+.modal-box {
+  background: white;
+  border-radius: 8px;
+  width: 440px;
+  max-width: 90vw;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  animation: scaleIn 0.2s ease;
+}
+
+.modal-header {
+  padding: 16px 20px;
+  font-size: 15px;
+  font-weight: 600;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.modal-body {
+  padding: 20px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+.modal-footer {
+  padding: 12px 20px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  border-top: 1px solid var(--border-color);
+}
+
+.modal-btn {
+  padding: 7px 18px;
+  border-radius: 4px;
+  font-size: 13px;
+  cursor: pointer;
+  border: 1px solid var(--border-color);
+  font-weight: 500;
+}
+
+.modal-btn-cancel {
+  background: white;
+  color: var(--text-primary);
+}
+
+.modal-btn-cancel:hover {
+  background: #f5f5f5;
+}
+
+.modal-btn-primary {
+  background: var(--primary-blue);
+  color: white;
+  border-color: var(--primary-blue);
+}
+
+.modal-btn-primary:hover {
+  background: var(--dark-blue);
+}
+
+.modal-btn-danger {
+  background: var(--red-flag);
+  color: white;
+  border-color: var(--red-flag);
+}
+
+.modal-btn-danger:hover {
+  background: #b71c1c;
+}
+
+.modal-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.modal-btn-loading {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.modal-loading-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 14px;
+  padding: 10px 12px;
+  background: #f5f7fa;
+  border: 1px solid #e0e4e8;
+  border-radius: 4px;
+  font-size: 12px;
+  color: var(--text-primary);
+}
+
+.modal-spinner {
+  width: 14px;
+  height: 14px;
+  border: 2px solid rgba(0, 0, 0, 0.15);
+  border-top-color: var(--primary-blue);
+  border-radius: 50%;
+  animation: modalSpin 0.8s linear infinite;
+  flex-shrink: 0;
+}
+
+.modal-spinner-light {
+  border-color: rgba(255, 255, 255, 0.4);
+  border-top-color: white;
+}
+
+@keyframes modalSpin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scaleIn {
+  from { transform: scale(0.95); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
